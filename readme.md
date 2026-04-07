@@ -56,7 +56,7 @@ Launch Environment
 ros2 launch turtlebot3_project3 competition_world.launch
 ```
 
-You should see the turtlebot3 along with the maze in gazebo
+You should see the turtlebot3 along with the maze in gazebo (scaled up the maze 2x to give more space)
 
 ![gazebo](gazebo.png)
 
