@@ -19,13 +19,14 @@ cd ~/project3_ws/src
 Clone the reposiory
 
 ```sh
-git clone https://github.com/koustubh1012/turtlebot3_project3.git
+git clone https://github.com/Madhav2133/turtlebot3_proj3_661.git
 ```
 
 Source ROS (Enable ROS commands)
 
 ```sh
-source /opt/ros/galactic/setup.bash
+source /opt/ros/humble/setup.bash
+# your ros distro
 ```
 
 Build the workspace
@@ -35,7 +36,6 @@ cd ~/project3_ws
 colcon build --packages-select turtlebot3_project3
 ```
 
-
 Source ROS (Package will be identified)
 
 ```sh
@@ -43,6 +43,12 @@ source install/setup.bash
 ```
 
 ## Test Setup
+
+Turtlebot3 Model
+
+```sh
+export TURTLEBOT3_MODEL=waffle
+```
 
 Launch Environment
 
