@@ -2,20 +2,26 @@
   "configurations": [
     {
       "browse": {
-        "databaseFilename": "${default}",
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
         "limitSymbolsToIncludedHeaders": false
       },
       "includePath": [
-        "/home/shantanu/ros_workspaces/project3_ws/install/turtlebot3_gazebo/include/**",
-        "/opt/ros/galactic/include/**",
-        "/home/shantanu/ros_workspaces/project3_ws/src/turtlebot3_gazebo/include/**",
+        "/home/madhav2133/Zagreb/Code_Base/ros2_ws/install/direct_visual_lidar_calibration/include/**",
+        "/home/madhav2133/turtlebot3_ws/install/turtlebot3_fake_node/include/**",
+        "/home/madhav2133/turtlebot3_ws/install/turtlebot3_msgs/include/**",
+        "/home/madhav2133/turtlebot3_ws/install/turtlebot3_gazebo/include/**",
+        "/home/madhav2133/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/include/**",
+        "/home/madhav2133/turtlebot3_ws/install/dynamixel_sdk/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/madhav2133/project3_ws/src/turtlebot3_proj3_661/include/**",
+        "include/**",
         "/usr/include/**"
       ],
-      "name": "ROS",
+      "name": "ros2",
       "intelliSenseMode": "gcc-x64",
       "compilerPath": "/usr/bin/gcc",
       "cStandard": "gnu11",
-      "cppStandard": "c++14"
+      "cppStandard": "c++17"
     }
   ],
   "version": 4

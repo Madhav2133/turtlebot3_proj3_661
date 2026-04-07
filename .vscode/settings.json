@@ -1,8 +1,25 @@
 {
+    "ROS2.distro": "humble",
     "python.autoComplete.extraPaths": [
-        "/opt/ros/galactic/lib/python3.8/site-packages"
+        "/home/madhav2133/Zagreb/Code_Base/ros2_ws/install/direct_visual_lidar_calibration/local/lib/python3.10/dist-packages",
+        "/home/madhav2133/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/madhav2133/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/madhav2133/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/madhav2133/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/madhav2133/turtlebot3_ws/install/dynamixel_sdk/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/madhav/SuperGluePretrainedNetwork"
     ],
     "python.analysis.extraPaths": [
-        "/opt/ros/galactic/lib/python3.8/site-packages"
+        "/home/madhav2133/Zagreb/Code_Base/ros2_ws/install/direct_visual_lidar_calibration/local/lib/python3.10/dist-packages",
+        "/home/madhav2133/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/madhav2133/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/madhav2133/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/madhav2133/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/madhav2133/turtlebot3_ws/install/dynamixel_sdk/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/madhav/SuperGluePretrainedNetwork"
     ]
 }
